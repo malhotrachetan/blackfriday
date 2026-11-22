@@ -1,0 +1,13 @@
+{
+  "name": "Narration Box",
+  "url": "https://narrationbox.com/pricing",
+  "description": "AI voices for audiobooks and voiceovers: multi-voice casting, voice cloning and 80+ languages from a PDF, EPUB, DOCX or URL",
+  "category": "media",
+  "platforms": ["web"],
+  "deal": "55% off the first year of all annual plans, no code needed, auto-applied",
+  "pricing": "subscription",
+  "discount": 55,
+  "startDate": "2026-11-22",
+  "endDate": "2026-12-02",
+  "icon": "https://narrationbox.com/apple-touch-icon.png"
+}
